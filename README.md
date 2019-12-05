@@ -1,8 +1,4 @@
-# algs4
-
-Programming Assignments for Princeton Algorithms courses in coursera.
-
-## Introduction
+# Descriotion
 
 ### [Percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
 

@@ -56,6 +56,9 @@ or specify `cp` when compile and run the program/
 javac -cp ".:./algs4.jar" HelloWorld.java
 java -cp ".:./algs4.jar" HelloWorld
 ```
+### Spotbugs, PMD, Checkstyle
+
+https://www.coursera.org/learn/algorithms-part1/resources/R2mre
 
 source code algs4 can be found at [https://github.com/kevin-wayne/algs4](https://github.com/kevin-wayne/algs4).
 
